@@ -2504,7 +2504,7 @@ input:valid {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(./static/media/gold.webp) no-repeat 50%/cover hsla(0,0%,100%,.8);
+    background: url(/static/media/gold.webp) no-repeat 50%/cover hsla(0,0%,100%,.8);
     width: 175px;
     height: 175px;
     border-radius: 50%
