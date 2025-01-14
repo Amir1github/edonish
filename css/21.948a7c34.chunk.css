@@ -58,31 +58,6 @@ input {
     }
 }
 
-@font-face {
-    font-family: "SFProDisplay";
-    src: url(/static/media/PalatinoLinotype-Bold.3c3ead3d.eot);
-    src: local("☺"),url(/static/media/PalatinoLinotype-Bold.7e44dede.woff) format("woff"),url(/static/media/PalatinoLinotype-Bold.dc05cb83.ttf) format("truetype"),url(/static/media/PalatinoLinotype-Bold.e3d740b0.svg) format("svg");
-    font-weight: 500;
-    font-style: normal
-}
-
-@font-face {
-    font-family: "SFProDisplay";
-    src: url(/static/media/PalatinoLinotype-Roman.01159d4b.eot);
-    src: local("☺"),url(/static/media/PalatinoLinotype-Roman.88407eca.woff) format("woff"),url(/static/media/PalatinoLinotype-Roman.a7377883.ttf) format("truetype"),url(/static/media/PalatinoLinotype-Roman.33795254.svg) format("svg");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: "SFPro";
-    src: url(/static/media/SFPRODISPLAYREGULAR.d1f5e6e1.OTF)
-}
-
-@font-face {
-    font-family: "Palatino Linotype";
-    src: url(/static/media/PalatinoLinotype-Roman.88407eca.woff)
-}
 
 .app {
     display: grid;
